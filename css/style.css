@@ -138,5 +138,6 @@ li > p {
         justify-content: space-evenly;
         width: 90%;
         height: 90vh;
+        min-height: max-content;
     }
 }
